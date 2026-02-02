@@ -1,4 +1,4 @@
-# Foodie with Tej@s 🍔  
+# Foodie with TEJ@S 🍔  
 Fast Food Website Project
 
 Foodie is a simple and responsive fast food website created as a **college project**.  
